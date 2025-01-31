@@ -1,0 +1,10 @@
+{
+    "Toyota": {
+        "model": "Corolla",
+        "class": "Седан"
+    },
+    "Audi": {
+        "model": "R8",
+        "class": "Спорт-кар"
+    }
+}
